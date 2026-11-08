@@ -1,0 +1,6 @@
+{
+  "name": "Đề Online - Quản lý Ngân hàng Câu hỏi & Thi Trực tuyến",
+  "description": "Hệ thống Quản lý Ngân hàng Câu hỏi & Tổ chức Thi Trực tuyến theo chuẩn cấu trúc Đề thi THPT 2025 kết nối Google Sheets qua Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
